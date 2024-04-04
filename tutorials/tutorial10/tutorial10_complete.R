@@ -3,6 +3,7 @@
 ##################################
 
 data(child)
+View(child)
 
 #### Completed
 # a)
